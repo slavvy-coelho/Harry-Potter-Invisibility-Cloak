@@ -10,3 +10,4 @@ This is a small project to replicate Harry Potter's Invisibility Cloak using Ope
 </ol>
 
 Here's a quick demo:
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
