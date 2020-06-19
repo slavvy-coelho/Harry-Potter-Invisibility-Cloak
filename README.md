@@ -9,5 +9,5 @@ This is a small project to replicate Harry Potter's Invisibility Cloak using Ope
   <li>Run the code on a web-cam supported computer.
 </ol>
 
-Here's a quick demo:
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+Here's a quick demo: <br>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
